@@ -1,0 +1,11 @@
+flags: {}
+extra-package-dbs: []
+packages:
+- '.'
+extra-deps:
+- readline-1.0.3.0
+resolver: lts-3.12
+extra-include-dirs:
+- /usr/local/Cellar/readline/6.3.8/include/
+extra-lib-dirs:
+- /usr/local/Cellar/readline/6.3.8/lib
